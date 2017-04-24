@@ -1,6 +1,7 @@
 tmp/
 pdf/
 txt/
+thumbs/
 static/thumbs/
 *.p
 *.pyc
